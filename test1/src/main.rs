@@ -1,3 +1,4 @@
 fn main() {
-    println!("你好啊 哈哈哈");
+    let a = 12;
+    println!("a :" ,a);
 }
