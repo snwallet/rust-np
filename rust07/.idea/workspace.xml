@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main.rs" line="14" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f557f3c5-b4a3-46ef-aa0a-474231497b6b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,11 +19,17 @@
       <file leaf-file-name="main.rs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="252">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
               <folding>
-                <element signature="e#10#11#0" expanded="true" />
-                <element signature="e#43#44#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,11 +68,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="113" />
-    <option name="y" value="183" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="99" />
+    <option name="y" value="30" />
     <option name="width" value="1668" />
-    <option name="height" value="1004" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -115,6 +124,14 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="Run rust07" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package rust07 --bin rust07" />
+      <option name="nocapture" value="true" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -153,6 +170,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Run rust07" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -164,20 +186,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609834341475</updated>
-      <workItem from="1609834345111" duration="316000" />
+      <workItem from="1609834345111" duration="3697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="316000" />
+    <option name="totallyTimeSpent" value="3697000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="691" y="0" width="1668" height="1004" extended-state="0" />
-    <editor active="true" />
+    <frame x="402" y="11" width="1668" height="920" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Cargo" />
+      <window_info anchor="right" id="Cargo" visible="true" weight="0.21303259" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -185,11 +206,11 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.436919" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -214,11 +235,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="252">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
-            <element signature="e#10#11#0" expanded="true" />
-            <element signature="e#43#44#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
           </folding>
         </state>
       </provider>
