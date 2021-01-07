@@ -1,10 +1,12 @@
 #[derive(Debug)]
+
 struct Dog{
     name:String,
     weight:f32,
     height:f32,
 }
 
+//方法
 impl Dog{
     fn get_name(&self)->&str{
         &(self.name[..])
@@ -16,7 +18,7 @@ impl Dog{
         self.height
     }
     fn show(){
-        println!("wwawa");
+        println!("wawa");
     }
 }
 fn main() {
@@ -26,6 +28,9 @@ fn main() {
         height:2340.4,
     };
     println!("{:#?}",dog);
+    println!("{}",dog.height);
     Dog::show();
+
+
     println!("Hello, world!");
 }

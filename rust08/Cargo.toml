@@ -1,0 +1,9 @@
+[package]
+name = "rust08"
+version = "0.1.0"
+authors = ["ningpeng <2254824749@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
