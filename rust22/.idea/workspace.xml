@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c603086-578e-4943-af42-39714c7d3edd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../rust11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust21/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust21/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/.fingerprint/rust21-746327e104bead54/bin-rust21" beforeDir="false" afterPath="$PROJECT_DIR$/../rust21/target/debug/.fingerprint/rust21-746327e104bead54/bin-rust21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/.fingerprint/rust21-746327e104bead54/output-bin-rust21" beforeDir="false" afterPath="$PROJECT_DIR$/../rust21/target/debug/.fingerprint/rust21-746327e104bead54/output-bin-rust21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/deps/rust21.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../rust21/target/debug/deps/rust21.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/deps/rust21.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../rust21/target/debug/deps/rust21.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/1yk9lmkq3c5bp8sp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/22zhr8x619x4lwiq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/24vy1ufjf6rt5prm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/2c44a1z9xxrp3g1m.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/2lnbhsazpn5fpbpe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/2qyvb1rd4d8m87vi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/58en2tsblua5x6f3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/axi3iqv2byt4r5a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/ibtyhii2g5ky62m.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi-igtyooijlggt/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vapwta-2t8usi.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/1yk9lmkq3c5bp8sp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/22zhr8x619x4lwiq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/24vy1ufjf6rt5prm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/2c44a1z9xxrp3g1m.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/2lnbhsazpn5fpbpe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/2qyvb1rd4d8m87vi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/58en2tsblua5x6f3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/axi3iqv2byt4r5a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/ibtyhii2g5ky62m.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/incremental/rust21-2t3k0p9bezwke/s-fuq2vh8f5n-1u1z2ib.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/rust21.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../rust21/target/debug/rust21.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust21/target/debug/rust21.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../rust21/target/debug/rust21.pdb" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="187" />
+    <option name="y" value="34" />
+    <option name="width" value="1615" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rust22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust22" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust22" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c603086-578e-4943-af42-39714c7d3edd" name="Default" comment="" />
+      <created>1610159365737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610159365737</updated>
+      <workItem from="1610159369220" duration="234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="234000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="187" y="34" width="1615" height="939" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Cargo" visible="true" weight="0.32987687" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951394" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

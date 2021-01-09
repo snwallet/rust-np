@@ -6,15 +6,15 @@
 //6、使用泛型并不会造成程序性能上的损失，rust 通过在编译时进行泛型代码的单态化来保证效率。
 // 单态化时通过填充编译时使用的具体类型，将通过代码转化为特定代码的过程
 
-fn largest_i32(list:&[i32])->i32{
-    let mut largest = list[0];
-    for &item in list.iter() {
-        if item >largest{
-            largest = item;
-        }
-    }
-    largest
-}
+//fn largest_i32(list:&[i32])->i32{
+//    let mut largest = list[0];
+//    for &item in list.iter() {
+//        if item >largest{
+//            largest = item;
+//        }
+//    }
+//    largest
+//}
 
 //2、在函数定义中使用泛型
 fn largest <T : PartialOrd + Copy>(list : &[T]) -> T{
@@ -27,16 +27,16 @@ fn largest <T : PartialOrd + Copy>(list : &[T]) -> T{
     larger
 }
 
-//fn main() {
-//
-//    let number_list = vec![1,100,34,2354,234,42222222];
-//    let number_list1 = vec!['a','e','y','t'];
-//    //let max_number = largest_i32(&number_list);
-//
-//    let max_number = largest(&number_list1);
-//    println!("{}",max_number);
-//    //println!("Hello, world!");
-//}
+fn main() {
+
+    let number_list = vec![1,100,34,2354,234,42222222];
+    let number_list1 = vec!['a','e','y','t'];
+    //let max_number = largest_i32(&number_list);
+
+    let max_number = largest(&number_list1);
+    println!("{}",max_number);
+    //println!("Hello, world!");
+}
 
 //在结构体
 //#[derive(Debug)]
@@ -97,13 +97,13 @@ impl <T,U> Point2<T,U>{
     }
 
 }
-fn main(){
-//    let i = Point3{x:2,y:4};
-//    println!("{}",i.get_x());
-
-    let p = Point2{x:1.1,y:23};
-    let p2 = Point2{x:"jsdf",y:'e'};
-
-    let p3 = p.mixup(p2);
-    println!("{},{}",p3.x,p3.y);
-}
+//fn main(){
+////    let i = Point3{x:2,y:4};
+////    println!("{}",i.get_x());
+//
+//    let p = Point2{x:1.1,y:23};
+//    let p2 = Point2{x:"jsdf",y:'e'};
+//
+//    let p3 = p.mixup(p2);
+//    println!("{},{}",p3.x,p3.y);
+//}
