@@ -1,0 +1,12 @@
+H:\rust-np\rust_paqu\target\debug\deps\miow-af1d85a41a5ebfdf.rmeta: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\handle.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\overlapped.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\iocp.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\net.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\pipe.rs
+
+H:\rust-np\rust_paqu\target\debug\deps\libmiow-af1d85a41a5ebfdf.rlib: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\handle.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\overlapped.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\iocp.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\net.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\pipe.rs
+
+H:\rust-np\rust_paqu\target\debug\deps\miow-af1d85a41a5ebfdf.d: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\handle.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\overlapped.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\iocp.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\net.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\pipe.rs
+
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\lib.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\handle.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\overlapped.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\iocp.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\net.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\miow-0.2.2\src\pipe.rs:

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=H:\rust-np\rust_paqu\target\debug\build\typenum-8da93ba37440d453\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=H:\rust-np\rust_paqu\target\debug\build\typenum-8da93ba37440d453\out\op.rs

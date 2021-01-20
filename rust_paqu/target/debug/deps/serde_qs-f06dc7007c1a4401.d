@@ -1,0 +1,11 @@
+H:\rust-np\rust_paqu\target\debug\deps\serde_qs-f06dc7007c1a4401.rmeta: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\de\mod.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\de\parse.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\error.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\ser.rs
+
+H:\rust-np\rust_paqu\target\debug\deps\libserde_qs-f06dc7007c1a4401.rlib: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\de\mod.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\de\parse.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\error.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\ser.rs
+
+H:\rust-np\rust_paqu\target\debug\deps\serde_qs-f06dc7007c1a4401.d: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\de\mod.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\de\parse.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\error.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\ser.rs
+
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\lib.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\de\mod.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\de\parse.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\error.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\serde_qs-0.7.2\src\ser.rs:

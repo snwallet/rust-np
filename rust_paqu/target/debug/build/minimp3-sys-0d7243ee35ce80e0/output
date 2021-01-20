@@ -1,0 +1,38 @@
+TARGET = Some("x86_64-pc-windows-msvc")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+running: "D:\\Program Files (x86)\\VisualStudio\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "minimp3/" "-W4" "-DMINIMP3_IMPLEMENTATION" "-FoH:\\rust-np\\rust_paqu\\target\\debug\\build\\minimp3-sys-0d7243ee35ce80e0\\out\\minimp3.o" "-c" "minimp3.c"
+minimp3.c
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(411): warning C4244: “=”: 从“uint32_t”转换到“uint8_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(581): warning C4244: “=”: 从“uint32_t”转换到“uint8_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(619): warning C4244: “=”: 从“int”转换到“uint8_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(620): warning C4244: “=”: 从“int”转换到“uint8_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(968): warning C4244: “=”: 从“int”转换到“uint8_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(1515): warning C4244: “=”: 从“int”转换到“mp3d_sample_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(1516): warning C4244: “=”: 从“int”转换到“mp3d_sample_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(1517): warning C4244: “=”: 从“int”转换到“mp3d_sample_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(1518): warning C4244: “=”: 从“int”转换到“mp3d_sample_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(1519): warning C4244: “=”: 从“int”转换到“mp3d_sample_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(1520): warning C4244: “=”: 从“int”转换到“mp3d_sample_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(1521): warning C4244: “=”: 从“int”转换到“mp3d_sample_t”，可能丢失数据
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\minimp3-sys-0.3.2\minimp3\minimp3.h(1522): warning C4244: “=”: 从“int”转换到“mp3d_sample_t”，可能丢失数据
+exit code: 0
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "D:\\Program Files (x86)\\VisualStudio\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\lib.exe" "-out:H:\\rust-np\\rust_paqu\\target\\debug\\build\\minimp3-sys-0d7243ee35ce80e0\\out\\libminimp3.a" "-nologo" "H:\\rust-np\\rust_paqu\\target\\debug\\build\\minimp3-sys-0d7243ee35ce80e0\\out\\minimp3.o"
+exit code: 0
+cargo:rustc-link-lib=static=minimp3
+cargo:rustc-link-search=native=H:\rust-np\rust_paqu\target\debug\build\minimp3-sys-0d7243ee35ce80e0\out

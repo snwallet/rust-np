@@ -17,8 +17,8 @@ struct R<T> {
     r: T,
 }
 
-impl<f32: Mul<Output = f32> + Copy> R<f32> {
-    fn area2(&self) -> f32{
+impl<T: Mul<Output = T> + Copy> R<T> {
+    fn area2(&self) -> T{
         self.r * self.r
     }
 }
@@ -31,7 +31,8 @@ fn main() {
             println!("第{}次输入:",i);
         }
         if i==3 {
-            let rect2 = Rect{width:3.1, height:45.3};
+
+            let rect2 = Rect{width:3.1, height:4.3};
             println!("矩形的面积为{}", rect2.area());
             break;
         }
@@ -49,3 +50,6 @@ fn main() {
 
     }
 }
+
+
+

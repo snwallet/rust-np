@@ -1,0 +1,11 @@
+H:\rust-np\rust_paqu\target\debug\deps\socket2-599efb9f9b99bb2e.rmeta: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\sockaddr.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\socket.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\utils.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\sys\windows.rs
+
+H:\rust-np\rust_paqu\target\debug\deps\libsocket2-599efb9f9b99bb2e.rlib: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\sockaddr.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\socket.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\utils.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\sys\windows.rs
+
+H:\rust-np\rust_paqu\target\debug\deps\socket2-599efb9f9b99bb2e.d: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\sockaddr.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\socket.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\utils.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\sys\windows.rs
+
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\lib.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\sockaddr.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\socket.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\utils.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.3.19\src\sys\windows.rs:

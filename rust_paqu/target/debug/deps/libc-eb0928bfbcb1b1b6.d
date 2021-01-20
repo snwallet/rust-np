@@ -1,0 +1,11 @@
+H:\rust-np\rust_paqu\target\debug\deps\libc-eb0928bfbcb1b1b6.rmeta: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\macros.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\fixed_width_ints.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\windows\mod.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\windows\msvc.rs
+
+H:\rust-np\rust_paqu\target\debug\deps\liblibc-eb0928bfbcb1b1b6.rlib: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\macros.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\fixed_width_ints.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\windows\mod.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\windows\msvc.rs
+
+H:\rust-np\rust_paqu\target\debug\deps\libc-eb0928bfbcb1b1b6.d: C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\lib.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\macros.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\fixed_width_ints.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\windows\mod.rs C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\windows\msvc.rs
+
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\lib.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\macros.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\fixed_width_ints.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\windows\mod.rs:
+C:\Users\asus\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.82\src\windows\msvc.rs:

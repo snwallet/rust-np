@@ -1,0 +1,12 @@
+{
+  "name": "NingPeng",
+  "age": 23,
+  "address": {
+    "street": "10 Downing Street",
+    "city": "广州"
+  },
+  "phones": [
+    "+44 1234567",
+    "+44 2345678"
+  ]
+}

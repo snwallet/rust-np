@@ -1,0 +1,13 @@
+prefix=H:\rust-np\rust_paqu\target\debug\build\libz-sys-a87a77856bb5bc0b\out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

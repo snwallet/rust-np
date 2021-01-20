@@ -1,0 +1,27 @@
+TARGET = Some("x86_64-pc-windows-msvc")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+running: "D:\\Program Files (x86)\\VisualStudio\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "H:\\rust-np\\rust_paqu\\target\\debug\\build\\wepoll-sys-a056e78fbb3b0b9e\\out\\wepoll-build" "-W4" "-FoH:\\rust-np\\rust_paqu\\target\\debug\\build\\wepoll-sys-a056e78fbb3b0b9e\\out\\wepoll-build\\wepoll.o" "-c" "H:\\rust-np\\rust_paqu\\target\\debug\\build\\wepoll-sys-a056e78fbb3b0b9e\\out\\wepoll-build\\wepoll.c"
+wepoll.c
+exit code: 0
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "D:\\Program Files (x86)\\VisualStudio\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX64\\x64\\lib.exe" "-out:H:\\rust-np\\rust_paqu\\target\\debug\\build\\wepoll-sys-a056e78fbb3b0b9e\\out\\wepoll-build\\libwepoll.a" "-nologo" "H:\\rust-np\\rust_paqu\\target\\debug\\build\\wepoll-sys-a056e78fbb3b0b9e\\out\\wepoll-build\\wepoll.o"
+exit code: 0
+cargo:rustc-link-lib=static=wepoll
+cargo:rustc-link-search=native=H:\rust-np\rust_paqu\target\debug\build\wepoll-sys-a056e78fbb3b0b9e\out\wepoll-build
+cargo:rustc-link-lib=static=wepoll
+cargo:rustc-link-search=H:\rust-np\rust_paqu\target\debug\build\wepoll-sys-a056e78fbb3b0b9e\out\wepoll-build
